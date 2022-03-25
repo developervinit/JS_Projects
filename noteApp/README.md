@@ -1,0 +1,1 @@
+in the noteApp project user can create and delete the note, and every note is being saved using the localStorage of browser.
